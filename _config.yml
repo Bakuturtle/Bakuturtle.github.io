@@ -8,7 +8,7 @@ tags:
   - linux
   - window
   - development
-show_hero: false
+show_hero: true
 menu:
   - title: Home
     url: /
