@@ -1,7 +1,7 @@
 ---
 date: 2021-04-09 23:40:10
 layout: post
-title: Welcome to my blog o/
+title: Welcome to my blog
 subtitle: 'This is a site that posts 
   hacking, Windows and Linux related tips'
 description: >-
@@ -13,12 +13,12 @@ image: >-
 optimized_image: >-
   https://cdn.pixabay.com/photo/2017/01/28/02/24/japan-2014619_960_720.jpg
 # https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
-category: blog
+category: blog 
 tags:
   - blog
   - hackng
   - linux
   - window
 author: Bakuturtle
-paginate: true
+paginate: 1
 ---
