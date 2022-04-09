@@ -1,5 +1,5 @@
 ---
-date: 2022-04-09 14:34:36
+date: 2022-04-09 23:42:40
 layout: post
 title: "2022-04-09-vsc-docker-error"
 subtitle:
