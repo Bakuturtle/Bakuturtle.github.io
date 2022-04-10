@@ -7,7 +7,8 @@ description: "If you install the Docker plugin in Linux without setting anything
 "
 image: >-
     ![vsc_docker](https://miro.medium.com/max/719/1*gc54u-dwEz70EadqtJ8LEw.png)
-optimized_image:
+optimized_image: >
+    ![vsc_docker](https://miro.medium.com/max/719/1*gc54u-dwEz70EadqtJ8LEw.png)
 category: VSC
 tags:
     - VSC
@@ -15,7 +16,7 @@ tags:
     - error
     - linux
 author: Bakuturtle
-paginate: 2
+paginate: 1
 ---
 
 # How to fix vsc docker connection failure?

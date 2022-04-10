@@ -9,10 +9,8 @@ description: >-
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
   https://cdn.pixabay.com/photo/2017/01/28/02/24/japan-2014619_960_720.jpg
-# https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
   https://cdn.pixabay.com/photo/2017/01/28/02/24/japan-2014619_960_720.jpg
-# https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog 
 tags:
   - blog
@@ -20,5 +18,5 @@ tags:
   - linux
   - window
 author: Bakuturtle
-paginate: 1
+paginate: 2
 ---
