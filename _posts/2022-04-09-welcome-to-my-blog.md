@@ -4,12 +4,12 @@ layout: post
 title: Welcome to my blog
 subtitle: 'This is a site that posts 
   hacking, Windows and Linux related tips'
-description: >+
+description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
-image: >+
+image: >-
   https://cdn.pixabay.com/photo/2017/01/28/02/24/japan-2014619_960_720.jpg
-optimized_image: >+
+optimized_image: >-
   https://cdn.pixabay.com/photo/2017/01/28/02/24/japan-2014619_960_720.jpg
 category: blog 
 tags:
