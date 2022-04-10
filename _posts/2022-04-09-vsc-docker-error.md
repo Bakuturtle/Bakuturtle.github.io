@@ -32,14 +32,36 @@ Error
 
 ---
 
-Normally, if /var/run/docker.sock is not touched, the permissions are as follows.
+Useally, if /var/run/docker.sock is not touched, the permissions are as follows.
 
 ```bash
-srw-r--r-- 1 root docker 0  4월  9 15:31 /var/run/docker.sock
+srw-rw---- 1 root docker 0  4월  9 15:31 /var/run/docker.sock
 ```
-It's just a problem that VSC cannot access docker.sock, and you just need to change the access rights as follows.
+It's just a problem that VSC cannot access docker.sock, which you just need to change the access rights as follows.
+
+
 
 ```bash
 sudo chmod a+x /var/run/docker.sock
 ```
 ![Error_image_2](https://camo.githubusercontent.com/d435d7e9319e6bb37daebdf61cc7a8ed16acb820f63d1da9eafbdca3a54a7ea2/68747470733a2f2f692e6962622e636f2f317157665150502f323032322d30342d30392d32302d32352d30312e706e67)
+
+---
+
+#
+
+As aside as, if you run the code below on another site and it doesn't work, check it out.
+
+```bash
+    sudo usermod -a -G docker $USER
+```
+- Check group docker.sock access right
+
+Since the access permission is set to rw-------(600), there is a high probability that it will not work.
+
+---
+
+
+# keyword 
+
+* check ur docker.sock aceess right
