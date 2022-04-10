@@ -5,10 +5,10 @@ title: "VSC-docker-Error"
 subtitle: "How to fix vsc docker connection failure"
 description: "If you install the Docker plugin in Linux without setting anything, the connection will fail.
 "
-image: >-
-    ![vsc_docker](https://miro.medium.com/max/719/1*gc54u-dwEz70EadqtJ8LEw.png)
-optimized_image: >
-    ![vsc_docker](https://miro.medium.com/max/719/1*gc54u-dwEz70EadqtJ8LEw.png)
+image: >+
+    https://miro.medium.com/max/719/1*gc54u-dwEz70EadqtJ8LEw.png
+optimized_image: >+
+    https://miro.medium.com/max/719/1*gc54u-dwEz70EadqtJ8LEw.png
 category: VSC
 tags:
     - VSC
