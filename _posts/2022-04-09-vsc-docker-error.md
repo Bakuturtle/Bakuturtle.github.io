@@ -28,7 +28,6 @@ paginate: 1
 >Failed to connect. Is Docker running?
     Error: connect EACCES /var/run/docker.sock
 
-![Error_image_1](https://camo.githubusercontent.com/74d7351eb59df1a3809980e4f82243e52d97167dc773cdf25590b3b0a7b09d2f/68747470733a2f2f692e6962622e636f2f68466e516742472f323032322d30342d30392d32302d32342d32302e706e67)
 
 ---
 
@@ -50,14 +49,14 @@ sudo chmod a+x /var/run/docker.sock
 
 
 
-#####As aside as, if you run the code below on another site and it doesn't work, check it out.
+##### As aside as, if you run the code below on another site and it doesn't work, check it out.
 
 ```bash
     sudo usermod -a -G docker $USER
 ```
 ### Check group docker.sock access right
 
-#####Since the access permission is set to rw-------(600), there is a high probability that it will not work.
+##### Since the access permission is set to rw-------(600), there is a high probability that it will not work.
 
 ---
 
