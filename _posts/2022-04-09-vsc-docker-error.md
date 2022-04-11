@@ -22,12 +22,13 @@ paginate: 1
 **How to fix vsc docker connection failure?**
 
 ***
-![vsc_docker](https://miro.medium.com/max/719/1*gc54u-dwEz70EadqtJ8LEw.png)
 
 # Error 
 
 >Failed to connect. Is Docker running?
     Error: connect EACCES /var/run/docker.sock
+
+
 
 
 ---
