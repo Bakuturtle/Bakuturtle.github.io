@@ -20,4 +20,4 @@ tags:
 author: Bakuturtle
 paginate: 2
 ---
-![wallpaper](./img/wallpaper.jpg)
+![ubuntu](https://wallpapercave.com/wp/KY7lCZb.png)
