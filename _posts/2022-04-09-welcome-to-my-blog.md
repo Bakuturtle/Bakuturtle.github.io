@@ -20,3 +20,4 @@ tags:
 author: Bakuturtle
 paginate: 2
 ---
+![wallpaper](./img/wallpaper.jpg)
