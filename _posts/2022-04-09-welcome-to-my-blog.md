@@ -18,7 +18,7 @@ tags:
   - linux
   - window
 author: Bakuturtle
-paginate: 2
+paginate: false
 ---
 
 >**thank u for visiting my blog!**
