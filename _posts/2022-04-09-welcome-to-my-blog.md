@@ -21,13 +21,13 @@ author: Bakuturtle
 paginate: 2
 ---
 
->**thanck for visik my blog!**
+>**thank u for visiting my blog!**
 
 ![ubuntu](https://c.tenor.com/wOlC5m7NikkAAAAd/%EC%A0%9C%EB%A6%AC%EC%9D%B8%EC%82%AC-%EC%A1%B4%EC%A4%91.gif)
 
 
 
->**i'll write on this blog that**
+>**This blog will focus on the bottom topics **
 
 1. linux
 2. docker
