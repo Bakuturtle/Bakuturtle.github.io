@@ -19,7 +19,8 @@ author: Bakuturtle
 paginate: 1
 ---
 
-# How to fix vsc docker connection failure?
+**How to fix vsc docker connection failure?**
+
 ***
 ![vsc_docker](https://miro.medium.com/max/719/1*gc54u-dwEz70EadqtJ8LEw.png)
 
@@ -31,12 +32,12 @@ paginate: 1
 
 ---
 
-##### Useally, if /var/run/docker.sock is not touched, the permissions are as follows.
+*Useally, if /var/run/docker.sock is not touched, the permissions are as follows.*
 
 ```bash
 srw-rw---- 1 root docker 0  4월  9 15:31 /var/run/docker.sock
 ```
-#####It's just a problem that VSC cannot access docker.sock, which you just need to change the access rights as follows.
+*It's just a problem that VSC cannot access docker.sock, which you just need to change the access rights as follows.*
 
 
 
@@ -49,14 +50,14 @@ sudo chmod a+x /var/run/docker.sock
 
 
 
-##### As aside as, if you run the code below on another site and it doesn't work, check it out.
+*As aside as, if you run the code below on another site and it doesn't work, check it out.*
 
 ```bash
     sudo usermod -a -G docker $USER
 ```
-### Check group docker.sock access right
+*Check group docker.sock access right*
 
-##### Since the access permission is set to rw-------(600), there is a high probability that it will not work.
+*Since the access permission is set to rw-------(600), there is a high probability that it will not work.*
 
 ---
 
