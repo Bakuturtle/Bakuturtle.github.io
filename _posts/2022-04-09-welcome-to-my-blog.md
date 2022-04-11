@@ -14,9 +14,6 @@ optimized_image: >-
 category: blog 
 tags:
   - blog
-  - hackng
-  - linux
-  - window
 author: Bakuturtle
 paginate: false
 ---
@@ -30,9 +27,10 @@ paginate: false
 >**This blog will focus on the bottom topics**
 
 1. linux
-2. docker
-3. hacking
-4. developemet 
+2. window
+3. docker
+4. hacking
+5. developemet 
 
 
 
