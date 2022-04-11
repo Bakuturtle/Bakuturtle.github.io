@@ -20,4 +20,16 @@ tags:
 author: Bakuturtle
 paginate: 2
 ---
-![ubuntu](https://wallpapercave.com/wp/KY7lCZb.png)
+
+>**thanck for visik my blog!**
+
+![ubuntu](https://c.tenor.com/wOlC5m7NikkAAAAd/%EC%A0%9C%EB%A6%AC%EC%9D%B8%EC%82%AC-%EC%A1%B4%EC%A4%91.gif)
+
+
+
+>**i'll write on this blog that**
+
+1. linux
+2. docker
+3. hacking
+4. developemet 
