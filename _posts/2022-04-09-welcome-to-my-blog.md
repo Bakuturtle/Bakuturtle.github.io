@@ -27,7 +27,7 @@ paginate: 2
 
 
 
->**This blog will focus on the bottom topics **
+>**This blog will focus on the bottom topics**
 
 1. linux
 2. docker
