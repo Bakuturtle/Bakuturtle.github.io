@@ -8,9 +8,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://images.unsplash.com/photo-1614518921450-1d5431a02324?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=736&q=80.jpg
+  https://media3.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif?cid=ecf05e475qk6mfuftm9jx79gxkvqfbj3rw7bdzrbwhn5sg9l&rid=giphy.gif&ct=g
 optimized_image: >-
-  https://images.unsplash.com/photo-1614518921450-1d5431a02324?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=736&q=80.jpg
+  https://media3.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif?cid=ecf05e475qk6mfuftm9jx79gxkvqfbj3rw7bdzrbwhn5sg9l&rid=giphy.gif&ct=g
 category: blog 
 tags:
   - blog
