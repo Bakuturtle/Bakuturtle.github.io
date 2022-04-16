@@ -65,4 +65,4 @@ sudo chmod a+x /var/run/docker.sock
 
 >keyword
 
-* check ur docker.sock aceess right
+* check ur docker.sock acceess right
